@@ -12,7 +12,7 @@ public class MessageResource {
         return "BEM VINDO A AULA DE MICROSSERVIÇO USANDO SPRING BOOT !!!";
 
     }
-    //http://localhost:8080/messages/login
+
 
 
     @GetMapping("/login")
