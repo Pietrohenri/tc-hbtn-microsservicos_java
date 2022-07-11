@@ -1,4 +1,4 @@
-package demo.src.main.java.com.example.user.controller;
+package src.main.java.com.example.user.controller;
 
 import com.example.user.exception.CPFException;
 import com.example.user.exception.UserIdException;
